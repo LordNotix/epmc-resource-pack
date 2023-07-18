@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"density=light": {
+			"model": "adpother:block/miasma_light"
+		},
+		"density=medium": {
+			"model": "adpother:block/miasma_medium"
+		},
+		"density=heavy": {
+			"model": "adpother:block/miasma_heavy"
+		}
+	}
+}
