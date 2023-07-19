@@ -1,0 +1,21 @@
+{
+    "tfc.enum.month.january": "Nivôse",
+    "tfc.enum.month.february": "Pluviôse",
+    "tfc.enum.month.march": "Ventôse",
+    "tfc.enum.month.april": "Germinal",
+    "tfc.enum.month.may": "Floréal",
+    "tfc.enum.month.june": "Prairial",
+    "tfc.enum.month.july": "Messidor",
+    "tfc.enum.month.august": "Fervidor",
+    "tfc.enum.month.september": "Fructidor",
+    "tfc.enum.month.october": "Vendémiaire",
+    "tfc.enum.month.november": "Brumaire",
+    "tfc.enum.month.december": "Frimaire",
+    "tfc.enum.day.monday": "Primidi",
+    "tfc.enum.day.tuesday": "Duodi",
+    "tfc.enum.day.wednesday": "Tridi",
+    "tfc.enum.day.thursday": "Quartidi",
+    "tfc.enum.day.friday": "Quintidi",
+    "tfc.enum.day.saturday": "Sextidi",
+    "tfc.enum.day.sunday": "Septidi"
+}
