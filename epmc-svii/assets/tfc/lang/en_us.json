@@ -17,5 +17,6 @@
     "tfc.enum.day.thursday": "Quartidi",
     "tfc.enum.day.friday": "Quintidi",
     "tfc.enum.day.saturday": "Sextidi",
-    "tfc.enum.day.sunday": "Septidi"
+    "tfc.enum.day.sunday": "Septidi",
+    "item.tfc.jute_fiber": "Retted Fibers"
 }
