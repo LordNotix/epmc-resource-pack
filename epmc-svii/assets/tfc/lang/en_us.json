@@ -18,5 +18,8 @@
     "tfc.enum.day.friday": "Quintidi",
     "tfc.enum.day.saturday": "Sextidi",
     "tfc.enum.day.sunday": "Septidi",
-    "item.tfc.jute_fiber": "Retted Fibers"
+    "item.tfc.jute_fiber": "Retted Fibers",
+    "item.tfc.jute_net": "Twine Net",
+    "item.minecraft.string": "Tripwire",
+    "item.minecraft.loom": "Vexillography Table"
 }
